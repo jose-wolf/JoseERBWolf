@@ -1,7 +1,7 @@
 ### Olá, eu sou o José Wolf 👋
 
 - 📈 Estou programando com Java.
-- 📘 Estudando Java.
+- 📘 Estudando Java, SQL.
 - 🎮 Um dos meus passatempo é ficar jogando.
 
 
