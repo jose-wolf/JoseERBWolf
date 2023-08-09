@@ -7,5 +7,5 @@
 - 
 
 <div>
-  <img width = 50em heigth = 40em src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img width = 50 heigth = 40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
