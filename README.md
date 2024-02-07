@@ -18,7 +18,7 @@
   <a href="mailto:wolf.jose89@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black" target="_blank">
   </a>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+    <a href="https://www.linkedin.com/in/jos%C3%A9wolf/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 
