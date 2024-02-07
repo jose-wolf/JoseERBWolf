@@ -16,7 +16,7 @@
 
 <div>
   <a href="mailto: https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub" target="_blank">
-    <img src="https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub">
+    <img src="https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub" target="_blank">
   </a>
 </div>
 https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub
