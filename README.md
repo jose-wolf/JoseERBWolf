@@ -8,6 +8,15 @@
 
 ### Principais tecnologias:
 <div>
-  <img align = "center" alt = "José-java" width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align = "center" alt = "José-MySQL" width = "60" heigth = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align = "center" alt = "José-Java" width = "60" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align = "center" alt = "José-MySQL" width = "60" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+
+## 
+
+<div>
+  <a href="mailto: https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub" target="_blank">
+    <img src="https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub">
+  </a>
+</div>
+https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub
