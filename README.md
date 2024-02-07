@@ -15,7 +15,7 @@
 ## 
 
 <div>
-  <a href="mailto:https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#label/MensagemIMPORTANTE%2FGitHub?compose=new" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
