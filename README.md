@@ -1,6 +1,6 @@
 <h1>Olá 👋, sou José Wolf</h1>
 
-<h3>Sou desenvolvedor Back-end, e estudante de Engenharia de Software na Unicesumar.</h3>
+<p>Sou desenvolvedor Back-end, e estudante de Engenharia de Software na Unicesumar.</p>
 
 -  Linguagem de programação:  **Java**.
 -  Banco de Dados: **MySQL** .
