@@ -1,25 +1,11 @@
-### Olá, eu sou o José Wolf 👋
+<h1 align="center">Olá 👋, sou José Wolf</h1>
 
-- 📈 Estou programando com Java.
-- 📘 Estudando Java e MySql.
-- 🎓 Estou cursando Engenharia de Software, atualmente estou no 3 ano.
+- 🌱 Estou atualmente estudando:  **Java, MySQL**
 
-##
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-### Principais tecnologias:
-<div>
-  <img align = "center" alt = "José-Java" width = "60" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align = "center" alt = "José-MySQL" width = "60" heigth = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
-
-## 
-
-<div>
-  <a href="mailto:josewolf401@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-    <a href="https://www.linkedin.com/in/jos%C3%A9wolf/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-
-</div>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/josewolf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/josewolf/" height="30" width="40" /></a>
+</p>
