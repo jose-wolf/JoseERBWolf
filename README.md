@@ -1,7 +1,9 @@
 <h1>Olá 👋, sou José Wolf</h1>
 
--  Linguagem:  **Java**
--  Banco de Dados: **MySQL** 
+<h3>Sou desenvolvedor Back-end, e estudante de Engenharia de Software na Unicesumar.</h3>
+
+-  Linguagem de programação:  **Java**.
+-  Banco de Dados: **MySQL** .
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
